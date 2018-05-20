@@ -2,8 +2,8 @@ import React from 'react';
 import './App.css';
 import FontAwesomeIcon from '@fortawesome/react-fontawesome';
 import faEnvelope from '@fortawesome/fontawesome-free-solid/faEnvelope';
-import faLinkedin from '@fortawesome/fontawesome-free-brands/faGithub';
-import faGithub from '@fortawesome/fontawesome-free-brands/faLinkedin';
+import faLinkedin from '@fortawesome/fontawesome-free-brands/faLinkedin';
+import faGithub from '@fortawesome/fontawesome-free-brands/faGithub';
 
 const App = () => {
     return (
