@@ -25,7 +25,7 @@ const App = () => {
 			<a href="https://www.linkedin.com/in/eirik-rognø-413983105"> 
 				<FontAwesomeIcon icon={faLinkedin} className={`Icon ${getSizeClass()}`} />
 			</a>
-			<a href="mailto:eirik@rogno.no">
+			<a href="mailto:eirik.rogno@gmail.com">
 				<FontAwesomeIcon icon={faEnvelope} className={`Icon ${getSizeClass()}`} />
 			</a>
           </div>
